@@ -6,13 +6,11 @@ NBA Player Stats is a Java application that retrieves NBA player statistics for 
 
 ## Features
 
-Select an NBA season.
+- Select an NBA season.
 
-Retrieve NBA player statistics through APIs.
+- Retrieve NBA player statistics through APIs.
 
-Display players and their main statistical averages.
-
-Explore player performance across seasons.
+- Display players and their main statistical averages.
 
 ## Tools & Technologies
 

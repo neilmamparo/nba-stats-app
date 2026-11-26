@@ -18,9 +18,7 @@ Explore player performance across seasons.
 
 Java – Application logic and data processing.
 
-balldontlie API – NBA player and statistical data.
-
-NBA-API – Access to additional NBA statistics.
+balldontlie API + NBA-API – NBA player and statistical data.
 
 ## How It Works
 

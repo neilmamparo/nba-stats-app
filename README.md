@@ -16,7 +16,7 @@ NBA Player Stats is a Java application that retrieves NBA player statistics for 
 
 - Java – Application logic and data processing.
 
-- balldontlie API + NBA-API – NBA player and statistical data.
+- balldontlie API + API-NBA – NBA player and statistical data.
 
 ## How It Works
 
